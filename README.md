@@ -140,7 +140,7 @@ By identifying high-risk segments early, organizations can take proactive retent
 This project demonstrates how data analytics can directly support HR strategy and leadership decisions.
 
 # Author
-Priyanka Lakra
+ROHIT KUMAR SINGH
 Data Analyst | Python | SQL | Power BI
 
 # About Me
