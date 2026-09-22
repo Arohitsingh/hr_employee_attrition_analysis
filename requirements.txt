@@ -1,4 +1,4 @@
-# Core Python scientific stac
+# Core Python scientific stack
 numpy
 pandas
 
