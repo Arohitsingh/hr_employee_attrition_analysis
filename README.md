@@ -1,6 +1,6 @@
 # Employee Attrition Analysis & Prediction
 # Executive Summary
-Employee attrition directly impacts organizational cost, productivity, and workforce stability..
+Employee attrition directly impacts organizational cost, productivity, and workforce stability.
 This project delivers an end-to-end Employee Attrition Analysis, designed to support data-driven HR and leadership decisions.
 
 The analysis follows a structured analytics workflow—starting with data quality validation, moving through exploratory analysis and KPI verification, and ending with an interactive Power BI dashboard for management reporting.
