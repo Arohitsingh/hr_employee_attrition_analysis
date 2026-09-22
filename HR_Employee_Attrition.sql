@@ -2,7 +2,7 @@
 -- HR EMPLOYEE ATTRITION: FULL SQL ANALYTICS PROJECT
 -- ---------------------------------------------------
 use hr_attrition_analysis;
--- ============================== 1. EXECUTIVE SUMMARY ==============================
+-- ============================== 1. EXECUTIVE SUMMARY =============================
 rename table _attrition to employee_attrition;
 
 -- 1.1 Total employee headcount
